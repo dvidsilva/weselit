@@ -2,7 +2,7 @@
 title: Selit
 email: ezewdie@weselit.com
 description: > # this means to ignore newlines until "baseurl:"
-  Selit is the first of its kind of mobile advertising company that uses ridesharing cars for advertising.
+  Selit is the first of its kind, using ridesharing cars for advertising.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://weselit.com" # the base hostname & protocol for your site
 twitter_username: weselit
