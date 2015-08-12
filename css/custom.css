@@ -27,4 +27,12 @@ html {
 body {
    min-height: 100%;
 }
-
+#logo-footer {
+  height: 40px;
+}
+.subfooter {
+  font-size: 0.67em;
+}
+.transparent-header header.header.transparent-header-on, header.header {
+  background-color: white;
+}
