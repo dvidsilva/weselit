@@ -7,3 +7,17 @@ Created:December 2014
 License URI:http://support.wrapbootstrap.com/
 File Description: Place here your custom CSS styles
 */
+
+#logo_img {
+  max-height: 70px;
+}
+#logo img:hover {
+  opacity: 1;
+}
+.site-slogan {
+  font-size: 1em;
+  font-weight: bold;
+}
+.transparent-header .header:not(.dark) .site-slogan {
+    color: rgba(0, 0, 0, 0.7);
+}
