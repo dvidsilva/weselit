@@ -10,3 +10,17 @@ github_username:  ''
 
 # Build settings
 markdown: kramdown
+
+#navigation links
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+- text: Contact
+  url: /contact/
+- text: Drivers
+  url: /drivers/
+- text: Clients
+  url: /clients/
+
