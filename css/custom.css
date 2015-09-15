@@ -42,3 +42,17 @@ body {
 .aboutus .left img {
   width: 100%;
 }
+
+/* icon in /drivers/ */
+.fa-selit {
+  background-image: url('/images/selit-icon-gray-bg.png');
+  background-size: contain;
+  content: " ";
+  height: 100px;
+  width: 80px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+span.icon.large {
+  overflow: hidden;
+}
